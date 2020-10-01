@@ -1,8 +1,8 @@
----
-layout:default
-title:Review
-parent:N4VocabularyList
-grand_parent:<ruby>語彙<rt>ごい</rt></ruby>　Vocabulary
+﻿---
+layout: default
+title: Review
+parent: N4VocabularyList
+grand_parent: <ruby>語彙<rt>ごい</rt></ruby>　Vocabulary
 ---
 
 <ruby>語彙<rt>ごい</rt></ruby>リスト
